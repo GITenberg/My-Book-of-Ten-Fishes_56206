@@ -1,16 +1,21 @@
 _repo: My-Book-of-Ten-Fishes_56206
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Frazee, Hazel
     gutenberg_agent_id: '43017'
     url: http://www.gutenberg.org/2009/agents/43017
+covers:
+- cover_type: archival
+  image_path: 56206-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Mendel, Rosalie G.
     gutenberg_agent_id: '48724'
     url: http://www.gutenberg.org/2009/agents/48724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56206#My-Book-of-Ten-Fishes
 gutenberg_issued: '2017-12-19'
 gutenberg_type: Text
 identifiers:
